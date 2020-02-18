@@ -8,3 +8,8 @@ UI is what allows data to be entered into a system and is how
 information is entered onto the screen. It is the way we interact
 with the computer.
 
+A Performance Monitor is another example of an operating system function.
+The Performance Monitor allows you to see the information on certain 
+computer resources and applications. It can be very helpful because, if 
+your computer is running slower than usual, or an application isn't working
+properly, you can use the Performance Monitor to end the task.
