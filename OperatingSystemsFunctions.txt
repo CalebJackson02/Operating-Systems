@@ -1,1 +1,4 @@
-Automatic Updates is one example of an operating system function. Automatic updates allow your computer to add, or remove, features from your operating system. These updates are to help correct any problems, and bring new features to make the users experience better.
+Automatic Updates is one example of an operating system function. 
+Automatic updates allow your computer to add, or remove, features 
+from your operating system. These updates are to help correct any 
+problems, and bring new features to make the users experience better.
